@@ -5,5 +5,5 @@ You need Kerbal Operating System (kOS) for running these.
 It is advised to use them on reusable rockets. But you can also use them on other, two staged vehicles.
 Remember to set these Action Groups:
 AG1 for toggling engine mode
-AG2 for retracting the strongback or tower clearance, if any.
+Update:! AG2 is now not required to be set up, as strongback is now retracted by SRT manually at T-2:00 min.
 AG7 for toggling Soot texture on the tank.
